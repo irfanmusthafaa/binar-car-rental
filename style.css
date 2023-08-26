@@ -238,9 +238,7 @@ nav ul li a:hover {
 .hero {
   background-color: #f1f3ff;
   display: flex;
-  /* gap: 1rem; */
   width: 100%;
-  /* height: 100vh; */
   margin-bottom: 5rem;
   padding-left: 8.5rem;
 }
@@ -248,9 +246,7 @@ nav ul li a:hover {
 .hero .hero-tagline {
   width: 50%;
   padding-top: 5rem;
-  /* padding-left: 100px; */
   box-sizing: border-box;
-  /* background-color: blue; */
 }
 
 .hero .hero-tagline h1 {
